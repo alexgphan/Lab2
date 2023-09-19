@@ -24,7 +24,7 @@ can make pull requests to that repo during the Task 3 activity during the lab.
 During lab, you should not fork directly from https://github.com/CSC207-2023F-UofT/Lab2.
 If you miss the lab and work on this after, you should use this URL though.
 
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [X] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - Important: make sure to uncheck the option to only fork the main branch, as the repo
   contains some branches you will use in this lab.
 
@@ -95,7 +95,7 @@ Now, you are almost ready to share your recipe with the remote!
 - [X] Checkout a new branch called `task_3`.
 - [X] Commit any changes that you want to `recipe.md` to improve the recipe.
 - [X] While still on the `task_3` branch, push your code to your remote repository on GitHub.
-- [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
+- [X] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that it shows up in the original repository that you forked.
 
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
